@@ -4,7 +4,7 @@ let resp
 let nome
 let xp
 
-console.log('Olá aventureiro! Aqui na Taverna de Gurath, você poderá descansar, comer, e arranjar trabalhos. Antes de continuar, precisamos te registrar na nossa lista de trabalhos.')
+console.log('Olá aventureiro! Aqui na Taverna do Orbe Ancião, você poderá descansar, comer, e arranjar trabalhos. Antes de continuar, precisamos te registrar na nossa lista de trabalhos.')
 
 while (resp != 'S' && resp != 's'){
     nome = prompt('Digite o seu nome: ')
